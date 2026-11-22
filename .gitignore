@@ -1,0 +1,13 @@
+# PlatformIO build and local settings
+**/.pio/
+**/.vscode/
+**/include/config.h
+**/config.h
+*.log
+*.bak
+*.swp
+.DS_Store
+__pycache__/
+.env
+.env.*
+!.env.example
